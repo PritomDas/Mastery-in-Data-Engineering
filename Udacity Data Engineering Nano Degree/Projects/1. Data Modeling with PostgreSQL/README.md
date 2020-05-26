@@ -1,4 +1,4 @@
- ![Language](https://img.shields.io/badge/language-python--3.7-blue) [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![LinkedIn][linkedin-shield]][linkedin-url]
+ ![Language](https://img.shields.io/badge/language-python--3.7-blue) [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -129,10 +129,6 @@ Pritom Das Radheshyam - [Portfolio Website](https://pritom.uwu.ai/)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/PritomDas/Mastery-in-Data-Engineering/tree/master/Udacity%20Data%20Engineering%20Nano%20Degree.svg?style=flat-square
-[forks-url]: https://github.com/PritomDas/Mastery-in-Data-Engineering/tree/master/Udacity%20Data%20Engineering%20Nano%20Degree/network/members
-[stars-shield]: https://img.shields.io/github/stars/PritomDas/Mastery-in-Data-Engineering/tree/master/Udacity%20Data%20Engineering%20Nano%20Degree.svg?style=flat-square
-[stars-url]: https://github.com/PritomDas/Mastery-in-Data-Engineering/tree/master/Udacity%20Data%20Engineering%20Nano%20Degree/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/you-found-pritom
 [product-screenshot]: images/screenshot.jpg
