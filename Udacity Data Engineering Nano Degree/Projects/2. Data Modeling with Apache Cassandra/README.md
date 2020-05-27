@@ -91,12 +91,10 @@ These are the prerequisites to run the program.
 
 Follow the steps to extract and load the data into the data model.
 
-1. Navigate to `Project 2 Data Modeling with Apache Cassandra` folder
-2. Run `Project 2.ipynb` iPython notebook
-3. Run Part 1 to create `event_datafile_new.csv` 
-4. Run Part 2 to initiate the ETL process and load data into tables 
-
-5. Check whether the data has been loaded into database by executing `SELECT` queries
+1. Run `Project 2.ipynb` iPython notebook
+2. Run Part 1 to create `event_datafile_new.csv` 
+3. Run Part 2 to initiate the ETL process and load data into tables 
+4. Check whether the data has been loaded into database by executing `SELECT` queries
 
 
 
