@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  <img src="./images/awslogo.png" alt="Logo" width="200" height="200">
+  <img src="./images/awslogo.png" alt="Logo" width="260" height="200">
 <h2 align="center"><i>Data Warehouses with AWS Redshift</i></h2>
 </p>
 
