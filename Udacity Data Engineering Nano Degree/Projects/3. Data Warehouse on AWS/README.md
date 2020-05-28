@@ -1,10 +1,10 @@
-![Language](https://img.shields.io/badge/language-python--3.7-blue) [![LinkedIn][linkedin-shield]][linkedin-url]
+![Language](https://img.shields.io/badge/language-python--3.8.2-blue) [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
-  <img src="./images/cassandralogo.png" alt="Logo" width="200" height="200">
+  <img src="./images/awslogo.png" alt="Logo" width="200" height="200">
 <h2 align="center"><i>Data Warehouses with AWS Redshift</i></h2>
 </p>
 
