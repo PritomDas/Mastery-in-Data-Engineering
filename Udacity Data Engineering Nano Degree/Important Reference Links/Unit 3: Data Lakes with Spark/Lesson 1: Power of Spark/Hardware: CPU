@@ -1,0 +1,11 @@
+The CPU is the brains of a computer. The CPU has a few different functions including directing other components of a computer as well as 
+running mathematical calculations. The CPU can also store 
+small amounts of data inside itself in what are called registers. These registers hold data that the CPU is working with at the moment.
+
+For example, say you write a program that reads in a 40 MB data file and then analyzes the file. When you execute the code, the
+instructions are loaded into the CPU. The CPU then instructs the computer to take the 40 MB from disk and store the data in memory (RAM).
+If you want to sum a column of data, then the CPU will essentially take two numbers at a time and sum them together. The accumulation of 
+the sum needs to be stored somewhere while the CPU grabs the next number.
+
+This cumulative sum will be stored in a register. The registers make computations more efficient: the registers avoid having to send data 
+unnecessarily back and forth between memory (RAM) and the CPU.
