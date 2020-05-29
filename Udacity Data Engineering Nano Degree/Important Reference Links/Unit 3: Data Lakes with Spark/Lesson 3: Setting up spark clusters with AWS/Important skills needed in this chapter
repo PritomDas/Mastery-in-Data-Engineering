@@ -1,0 +1,25 @@
+Distinguish between setting up a Spark Cluster using both Local and Standalone Mode
+
+Set up Spark Cluster in AWS
+
+Use Spark UI
+
+Use AWS CLI
+
+Create EMR using AWS CLI
+
+Create EMR Cluster
+
+Test Port Forwarding
+
+Use Notebooks on your Spark Cluster
+
+Write Spark Scripts
+
+Store and Retrieve data on the Cloud
+
+Read and Write to Amazon S3
+
+Understand the distinction between HDFS and S3
+
+Reading and Writing Data to HDFS
