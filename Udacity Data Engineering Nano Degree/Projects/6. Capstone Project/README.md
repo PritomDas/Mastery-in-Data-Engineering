@@ -1,20 +1,10 @@
- ![Language](https://img.shields.io/badge/language-python--3.7-blue) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
-
+![Language](https://img.shields.io/badge/language-python--3.8.2-blue) [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
- <a href="https://github.com/vineeths96/Data-Engineering-Nanodegree">
  <img src="./images/logo.png" alt="Logo" width="250" height="125">
- </a>
  <h3 align="center">Twitter Data Topic Analysis</h3>
- <p align="center">
- Udacity Nanodegree Course Capstone Project
- <br />
- <a href=https://github.com/vineeths96/Data-Engineering-Nanodegree><strong>Explore the repository»</strong></a>
- <br />
- <br />
- </p>
 </p>
 
 
@@ -205,14 +195,14 @@ Files in this repository:
 Clone the repository into a local machine using
 
 ```sh
-git clone https://github.com/vineeths96/Data-Engineering-Nanodegree
+git clone https://github.com/PritomDas/Mastery-in-Data-Engineering/tree/master/Udacity%20Data%20Engineering%20Nano%20Degree
 ```
 
 ### Prerequisites
 
 These are the prerequisites to run the program.
 
-* python 3.7
+* python 3.8.2 ( as of my current installation )
 * Twitter developer account and credentials
 * Static datasets (from Kaggle)
 * AWS IAM credentials
@@ -246,45 +236,16 @@ Follow the steps to extract and load the data into the data model.
 
 
 
-<!-- FUTURE WORK -->
-
-## Future plan of work
-
-Instead of using static datasets, I propose to use dynamic datasets. One particular scenario I have in mind is to use the [Twitter](https://www.twitter.com) tweet data and [Quandl](https://www.quandl.com) stock data to analyze the variation in the stock prize due to events such as Covid19.
-
-
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 
 ## Contact
-
-Vineeth S - vs96codes@gmail.com
-
-Project Link: [https://github.com/vineeths96/Data-Engineering-Nanodegree](https://github.com/vineeths96/Data-Engineering-Nanodegree)
+Pritom Das Radheshyam - [Portfolio Website](https://pritom.uwu.ai/)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[contributors-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[forks-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/network/members
-[stars-shield]: https://img.shields.io/github/stars/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[stars-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[issues-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/issues
-[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/vineeths
+[linkedin-url]: https://www.linkedin.com/in/you-found-pritom
 [product-screenshot]: images/screenshot.jpg
