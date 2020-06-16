@@ -218,7 +218,7 @@ Follow the steps to extract and load the data into the data model.
 
 1. Set up Apache Airflow.
 
-2. Navigate to Projects and then to `6. Capstone Project` folder.
+2. Navigate to `Projects` and then to `6. Capstone Project` folder.
 
 3. Install requirements by
 
