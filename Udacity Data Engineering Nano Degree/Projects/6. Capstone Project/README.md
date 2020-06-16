@@ -216,9 +216,9 @@ These are the prerequisites to run the program.
 
 Follow the steps to extract and load the data into the data model.
 
-1. Set up Apache Airflow
+1. Set up Apache Airflow.
 
-2. Navigate to `Capstone Project` folder
+2. Navigate to Projects and then to `6. Capstone Project` folder.
 
 3. Install requirements by
 
@@ -226,11 +226,11 @@ Follow the steps to extract and load the data into the data model.
    pip install -r requirements.txt
    ```
 
-4. Edit and fill in `config.cfg` as per requirements
+4. Edit and fill in `config.cfg` as per requirements.
 
-5. Download the static datasets into [datasets](./datasets) directory
+5. Download the static datasets into [datasets](./datasets) directory.
 
-6. Trigger Airflow DAG ON
+6. Trigger Airflow DAG ON.
 
 7. Verify the DAG execution by executing analytics tasks.
 
