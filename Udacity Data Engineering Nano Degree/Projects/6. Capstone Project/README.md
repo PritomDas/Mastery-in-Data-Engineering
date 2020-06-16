@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
- <img src="./images/logo.png" alt="Logo" width="250" height="125">
+ <img src="./images/twitsenti.png" alt="Logo" width="250" height="125">
  <h3 align="center">Twitter Data Topic Analysis</h3>
 </p>
 
